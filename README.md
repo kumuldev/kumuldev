@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kumuldev
+- 👋 Hi, I’m Stafford known as @kumuldev
 - 👀 I’m interested in FullStack Web Development
 - 🌱 I’m currently learning Frontend Web Development
 - 💞️ I’m looking to collaborate on projects in frontend development 
